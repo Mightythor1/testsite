@@ -1,0 +1,19 @@
+{
+  "name": "newsite",
+  "version": "1.0.0",
+  "description": "Trevor's hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mightythor1/testsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mightythor1/testsite/issues"
+  },
+  "homepage": "https://github.com/Mightythor1/testsite#readme"
+}
